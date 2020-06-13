@@ -1,0 +1,217 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"nodeModules": true
+	},
+	"miniprogramRoot": "dist/",
+	"compileType": "miniprogram",
+	"appid": "wx79049e832acec3e1",
+	"projectname": "%E4%BC%98%E5%93%81%E7%9B%B4%E4%BE%9B-xcx",
+	"libVersion": "2.4.2",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 27,
+			"list": [
+				{
+					"id": 0,
+					"name": "商品详情页",
+					"pathName": "pages/goods/goods",
+					"query": "id=537ggl"
+				},
+				{
+					"id": -1,
+					"name": "确认订单",
+					"pathName": "pages/order/confirmOrder",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "购物车",
+					"pathName": "pages/cart/cart",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "搜索",
+					"pathName": "pages/search/search",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "微信登录",
+					"pathName": "pages/user/login",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "支付成功",
+					"pathName": "pages/pay/payResult",
+					"query": "status=1"
+				},
+				{
+					"id": -1,
+					"name": "个人中心",
+					"pathName": "pages/ucenter/index",
+					"query": ""
+				},
+				{
+					"id": 7,
+					"name": "编辑我的信息",
+					"pathName": "pages/ucenter/editInfo",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "地址编辑",
+					"pathName": "pages/ucenter/address",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "新增地址",
+					"pathName": "pages/ucenter/addressAdd",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "关联手机号",
+					"pathName": "pages/user/bindPhone",
+					"query": ""
+				},
+				{
+					"id": 11,
+					"name": "首页",
+					"pathName": "pages/index/index",
+					"query": "shop=53af1u"
+				},
+				{
+					"id": -1,
+					"name": "我的订单",
+					"pathName": "pages/ucenter/order",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "订单详情",
+					"pathName": "pages/ucenter/orderDetail",
+					"query": "no=880000020644"
+				},
+				{
+					"id": -1,
+					"name": "申请退款",
+					"pathName": "pages/ucenter/applyReturn",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "申请退款",
+					"pathName": "pages/ucenter/applyReturn",
+					"query": "order_no=88000020550&item_id=12442"
+				},
+				{
+					"id": 16,
+					"name": "退货详情",
+					"pathName": "pages/ucenter/returnInfo",
+					"query": "service_id=890&shop=537fdt"
+				},
+				{
+					"id": 17,
+					"name": "提现",
+					"pathName": "pages/withdraw/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "我的店",
+					"pathName": "pages/myshop/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "结算",
+					"pathName": "pages/myshop/settled",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "收支明细",
+					"pathName": "pages/myshop/detailed",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "提现详情",
+					"pathName": "pages/withdraw/recordinfo",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "销售统计",
+					"pathName": "pages/shoporder/shopSales",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "店铺首页",
+					"pathName": "pages/index/shopIndex",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "店铺信息",
+					"pathName": "pages/myshop/editInfo",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "店铺订单",
+					"pathName": "pages/shoporder/orderList",
+					"query": ""
+				},
+				{
+					"id": 26,
+					"name": "首页",
+					"pathName": "pages/index/index",
+					"query": "shop=53af1u&from_channel=www999dcom"
+				},
+				{
+					"id": 27,
+					"name": "首页",
+					"pathName": "pages/router/index",
+					"query": "shop=538geb&from_channel=www999dcom"
+				}
+			]
+		}
+	}
+}
